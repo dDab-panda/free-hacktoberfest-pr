@@ -194,3 +194,16 @@
 **Interests**: reading, listening to music, catching up on tv shows
 
 **Location**: USA, Jacksonville
+
+#### --- 14 ---
+**Name**: [Aayush Bansal](https://github.com/dDab-panda)
+
+**Programming Language** : HTML/CSS/Javascript, learning Python and Django
+
+**Contributed to OSS**: This is my first time
+
+**How long have you been programming**: 1 year
+
+**Interests**: Music, Standup Comedy, Learning new stuff everyday
+
+**Location**: India
